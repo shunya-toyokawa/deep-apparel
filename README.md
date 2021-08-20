@@ -7,7 +7,7 @@ Docker内部に入ったら下記のコードでライブラリやAPIのイン�
 sh batch.sh
 
 
-[GoogleDrive](https://drive.google.com/drive/folders/1Cg5z-5RY3nMSnrK9cfLoluglTi8KcJMK?usp=sharing)から「models」をダウンロードする
+[GoogleDrive](https://drive.google.com/drive/folders/1X9-TzWpwbX2zQf2To8lB-ZQHMYviYYh6?usp=sharing)から「models」をダウンロードして以下のように置く。
 <pre> 
 .
 ├── batch.sh
