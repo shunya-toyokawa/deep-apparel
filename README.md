@@ -29,12 +29,14 @@ sh batch.sh
 
 [COCOAPI](https://cocodataset.org/#download)からデータセットをダウンロードし、以下のように置く。
 <pre>
-     ── coco
-    	├── annotations
-    	├── images
-    		│   ├── train2017
-    		│   └── val2017
-			└── person_detection_results
+.
+└── coco
+    ├── annotations
+    ├── images
+    │   ├── train2017
+    │   └── val2017
+    └── person_detection_results
+
 </pre>
 
 
