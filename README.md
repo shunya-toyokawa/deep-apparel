@@ -1,11 +1,15 @@
 # deep-apparel
 
 ## Installation
-Docker のbuild
-docker build .
-Docker内部に入ったら下記のコードでライブラリやAPIのインストール
-sh batch.sh
 
+###Docker のbuild
+```
+docker build .
+```
+###Docker内部に入ったら下記のコードでライブラリやAPIのインストール
+```
+sh batch.sh
+```
 
 [GoogleDrive](https://drive.google.com/drive/folders/1X9-TzWpwbX2zQf2To8lB-ZQHMYviYYh6?usp=sharing)から「models」をダウンロードして以下のように置く。
 <pre> 
