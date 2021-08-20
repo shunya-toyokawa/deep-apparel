@@ -2,11 +2,11 @@
 
 ## Installation
 
-###Docker のbuild
+### Docker のbuild
 ```
 docker build .
 ```
-###Docker内部に入ったら下記のコードでライブラリやAPIのインストール
+### Docker内部に入ったら下記のコードでライブラリやAPIのインストール
 ```
 sh batch.sh
 ```
