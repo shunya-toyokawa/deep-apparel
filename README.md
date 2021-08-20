@@ -7,7 +7,7 @@ Docker内部に入ったら下記のコードでライブラリやAPIのイン�
 sh batch.sh
 
 
-[GoogleDrive]から「models」をダウンロードする
+[GoogleDrive](https://drive.google.com/drive/folders/1gAhKFx0KR2V5GRFLizpM_yrfzSa6XQHC?usp=sharing)から「models」をダウンロードする
 <pre> 
 .
 ├── batch.sh
@@ -27,7 +27,7 @@ sh batch.sh
 └── tools
 </pre>
 
-[COCOAPI]からデータセットをダウンロードし、以下のように置く。
+[COCOAPI](https://cocodataset.org/#download)からデータセットをダウンロードし、以下のように置く。
 <pre>
      ── coco
     	├── annotations
